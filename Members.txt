@@ -1,12 +1,14 @@
 # This is a file that contains the names of all members of the PCA group.
 
 
-1. Abdulwasiu Tiamiyu
-2. Amit Budhiraja
-3. Oyetunji Rebecca
-4. Ogundipe Abdullateef
-5. Abiodun-Olojede Joshua
-6. Onanuga Damilola Daniel
-7. Omotosho Olamilekan Matthew 
+1. Abdulwasiu Tiamiyu - Team Lead
+2. Sreenidhi Reddy - Assistant Team Lead
+3. Omotosho Olamilekan Matthew - Query Analyst
+4. Amit Budhiraja
+5. Oyetunji Rebecca
+6. Ogundipe Abdullateef
+7. Abiodun-Olojede Joshua
+8. Onanuga Damilola Daniel
+ 
 
 
